@@ -3,12 +3,12 @@ package domain;
 public class Mesa {
     private Integer numero;
     private Integer cantidadComensales;
-    private EstadoMesa estado;
+    private EstadoMesa estadoMesa;
 
-    public Mesa(Integer numero, Integer cantidadComensales, EstadoMesa estado) {
+    public Mesa(Integer numero, Integer cantidadComensales, EstadoMesa estadoMesa) {
         this.numero = numero;
         this.cantidadComensales = cantidadComensales;
-        this.estado = estado;
+        this.estadoMesa = estadoMesa;
     }
 
     public Integer getNumero() {
@@ -27,11 +27,11 @@ public class Mesa {
         this.cantidadComensales = cantidadComensales;
     }
 
-    public EstadoMesa getEstado() {
-        return estado;
+    public EstadoMesa getEstadoMesa() {
+        return estadoMesa;
     }
 
-    public void setEstado(EstadoMesa estado) {
-        this.estado = estado;
+    public void setEstado(EstadoMesa estadoMesa) {
+        this.estadoMesa = estadoMesa;
     }
 }

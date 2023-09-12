@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4c3e832-be74-4187-9690-3d06ac8cd16a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/domain/Cocinero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/Comanda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/FormaPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/Salon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Mesa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Mesa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Gus/Desktop/dv-pav-final-restaurant-vera-gustavo"
+    "last_opened_file_path": "C:/Users/Gus/Desktop/Programación Avanzada (TP Final)/Ejemplo Restaurant/dv-pav-20221c-c32-restaurant"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
