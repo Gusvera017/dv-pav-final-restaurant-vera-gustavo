@@ -24,12 +24,4 @@ public abstract class Consumible {
     public void setPrecio(Double precio) {
         this.precio = precio;
     }
-
-    @Override
-    public String toString() {
-        return "Consumible{" +
-                "nombre='" + nombre + '\'' +
-                ", precio=" + precio +
-                '}';
-    }
 }
