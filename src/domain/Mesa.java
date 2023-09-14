@@ -31,7 +31,16 @@ public class Mesa {
         return estadoMesa;
     }
 
-    public void setEstado(EstadoMesa estadoMesa) {
+    public void setEstadoMesa(EstadoMesa estadoMesa) {
         this.estadoMesa = estadoMesa;
+    }
+
+    @Override
+    public String toString() {
+        return "Mesa [" +
+                "numero:"  + numero +
+                ", cantidadComensales: " + cantidadComensales +
+                ", estadoMesa: " + estadoMesa +
+                ']';
     }
 }
